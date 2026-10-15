@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+# credentials stay out of Git (README: keep credentials out of Git)
+.env
+config/db.php
+secret/
